@@ -37,7 +37,7 @@ The dataset was obtained from a publicly available cardiovascular dataset used f
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
